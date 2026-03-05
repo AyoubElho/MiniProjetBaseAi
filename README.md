@@ -30,9 +30,6 @@ Mini-projet combinant la **recherche heuristique A\*** et les **Chaînes de Mark
 ├── markov.py          # Construction de P, π^(n), absorption N=(I-Q)^-1, Monte-Carlo
 ├── experiments.py     # 4 expériences reproductibles + figures
 ├── main.py            # Script principal — lance toutes les expériences
-├── rapport_final.tex  # Rapport LaTeX complet (13 pages)
-├── logo_enset.png     # Logo ENSET Mohammedia
-└── README.md          # Ce fichier
 ```
 
 ---
