@@ -206,7 +206,7 @@ python >= 3.8
 
 ## Rapport
 
-Le rapport complet (13 pages, LaTeX) est disponible dans [`rapport_final.pdf`](rapport_final.pdf).
+Le rapport complet est disponible dans [`rapport_final.pdf`](rapport_final.pdf).
 
 Il couvre :
 - Modélisation mathématique (f=g+h, matrice P, N=(I-Q)⁻¹)
