@@ -71,7 +71,7 @@ t = N · 1           # Temps moyen d'absorption
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/<votre-username>/astar-markov-grid.git
+git clone https://github.com/AyoubElho/MiniProjetBaseAi
 cd astar-markov-grid
 
 # Installer les dépendances
